@@ -1,0 +1,136 @@
+<table class="field hide" style="border-collapse: collapse; font-family: Roboto, sans-serif; margin: 20px 0px; padding: 0px; text-align: center; width: 100%;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Info</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Status ( on/off )</b></td>
+      <td class="status" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">on</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Price</b></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">5.000</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Unit Price</b></td>
+      <td class="unit" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">Lembar</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Discount ( % )</b></td>
+      <td class="discount" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">5</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Mark</b></td>
+      <td class="mark" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">Terlaris</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Weight ( Gram )</b></td>
+      <td class="weight" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">200</td>
+    </tr>
+  </tbody>
+</table>
+<!--more-->
+<table class="image hide" style="border-collapse: collapse; font-family: Roboto, sans-serif; margin: 20px 0px; padding: 0px; text-align: center; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Image ( Cover )</b></td>
+    </tr>
+    <tr>
+      <td class="cover" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">
+        <div class="separator" style="clear: both; color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSJ-n0ersi6h3ujUfSC8nftMkayEkqoOGfnBQtwi9D9flHI6CTki_KShuQ77msL9N1bUcNVuLGFLMTmhI-6ihNeBxa8wCVmMqXkMsMV2KDHWRIPrq1-tDHGQMlP-7JEFU4ihR7sM9D2FAVqHizTE9A2rTaU0-q6U5h2kTvh1FcDVoX5XVsC1d7MDbj/s1600/Free_Folder_Mockup_2.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSJ-n0ersi6h3ujUfSC8nftMkayEkqoOGfnBQtwi9D9flHI6CTki_KShuQ77msL9N1bUcNVuLGFLMTmhI-6ihNeBxa8wCVmMqXkMsMV2KDHWRIPrq1-tDHGQMlP-7JEFU4ihR7sM9D2FAVqHizTE9A2rTaU0-q6U5h2kTvh1FcDVoX5XVsC1d7MDbj/s320/Free_Folder_Mockup_2.jpg" width="320" /></a></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Image ( Gallery )</b></td>
+    </tr>
+    <tr>
+      <td class="gallery" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">
+        <div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkL4APmqlp1_wdb2np7Iq0xP5rEZ02drTgw5MA0y-qJVJvOAdB5Sw34KBR86M54x5LiDN1fuDN4p7brFvy655Jl4abgRBh9XvOb1ray1daxafyM_FXYBUfWunPXbiJp3gF4sHE5ORNNA-GGs__BZoJkswni1eePxthM_mA_x_eM1pWpo5azpLHpuae/s1600/Free_Folder_Mockup_1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkL4APmqlp1_wdb2np7Iq0xP5rEZ02drTgw5MA0y-qJVJvOAdB5Sw34KBR86M54x5LiDN1fuDN4p7brFvy655Jl4abgRBh9XvOb1ray1daxafyM_FXYBUfWunPXbiJp3gF4sHE5ORNNA-GGs__BZoJkswni1eePxthM_mA_x_eM1pWpo5azpLHpuae/s320/Free_Folder_Mockup_1.jpg" width="320" /></a></div><br style="color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;" /><div class="separator" style="clear: both; color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpuL9RhKahIkChujOx3C1_PG4dqbU1E_Jf6Nc2kvfwQTENjV1vQxwWxVJlb_-s8iKYMxM4DBVA2qbmoD24b0A64DP0ydQ4iKzT0OGO7ksv5eXY7ZtxuXUkXg3fRdwHClrKTO0QjVzzWqN-d4fIzwe8mdkUK5qVIEeN3-VTQeEpua9qAl-d0qSClcY/s1600/Free_Folder_Mockup_3.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpuL9RhKahIkChujOx3C1_PG4dqbU1E_Jf6Nc2kvfwQTENjV1vQxwWxVJlb_-s8iKYMxM4DBVA2qbmoD24b0A64DP0ydQ4iKzT0OGO7ksv5eXY7ZtxuXUkXg3fRdwHClrKTO0QjVzzWqN-d4fIzwe8mdkUK5qVIEeN3-VTQeEpua9qAl-d0qSClcY/s320/Free_Folder_Mockup_3.jpg" width="320" /></a></div><br style="color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;" /><div class="separator" style="clear: both; color: #111111; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrWDudJwHx0IyPpX8mFiiL9VMJ0zewYJqvYIUm7zB9MvYqx-WwRUxYgFruvQjeF2O77rdC9TZy3sfTSAtPDjsgjQqKsHXdqYtO0Mu4y_XLvSzz_yzrOsggUQ6Cza6CbO4QWWgN0aHEZdN99Xmc9aAlAtfHSFZKqFqoYtpE1V_LJbtGq5Z-cVd-VsPm/s1600/Free_Folder_Mockup_4.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrWDudJwHx0IyPpX8mFiiL9VMJ0zewYJqvYIUm7zB9MvYqx-WwRUxYgFruvQjeF2O77rdC9TZy3sfTSAtPDjsgjQqKsHXdqYtO0Mu4y_XLvSzz_yzrOsggUQ6Cza6CbO4QWWgN0aHEZdN99Xmc9aAlAtfHSFZKqFqoYtpE1V_LJbtGq5Z-cVd-VsPm/s320/Free_Folder_Mockup_4.jpg" width="320" /></a></div></div></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table class="variant hide" style="border-collapse: collapse; font-family: Roboto, sans-serif; margin: 20px 0px; padding: 0px; text-align: center; width: 100%;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Variant</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Status ( on/off )</b></td>
+      <td class="status" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">on</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Label</b></td>
+      <td class="label" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">Bahan</td>
+    </tr>
+    <tr>
+      <td style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Name</b></td>
+      <td style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Price</b></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">AP260 ( Tanpa Laminasi )</td><td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">AP260&nbsp;+ Laminasi Glossy</td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">6.500</td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">AP260 + Laminasi Doff</td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">6.500</td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td><td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td><td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"></td>
+    </tr>
+    <tr>
+      <td class="name" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"><br /></td>
+      <td class="price" style="border: 1px solid rgb(221, 221, 221); padding: 15px;"></td>
+    </tr>
+  </tbody>
+</table>
+<table class="marketplace hide" style="border-collapse: collapse; font-family: Roboto, sans-serif; margin: 20px 0px; padding: 0px; text-align: center; width: 100%;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Marketplace</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid rgb(221, 221, 221); color: #f57c00; padding: 15px;"><b>Status ( on/off )</b></td>
+      <td class="status" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">on</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background: rgb(245, 124, 0); border: 1px solid rgb(221, 221, 221); color: white; padding: 15px;"><b>Link Marketplace :</b></td>
+    </tr>
+    <tr>
+      <td class="link" colspan="2" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">https://shopee.co.id/product-url</td>
+    </tr>
+    <tr>
+      <td class="link" colspan="2" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">https://www.tokopedia.com/username/product-url</td>
+    </tr>
+    <tr>
+      <td class="link" colspan="2" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">https://www.lazada.co.id/products/product-url</td>
+    </tr>
+    <tr>
+      <td class="link" colspan="2" style="border: 1px solid rgb(221, 221, 221); padding: 15px;">https://www.bukalapak.com/p/category-path/product-url</td>
+    </tr>
+  </tbody>
+</table><p><b>Lorem Ipsum</b> adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting.</p><p><br /></p><div><p style="text-align: left;">Contoh penggunaan <b>daftar biasa</b> :</p><div><ul><li>Apakah Lorem Ipsum itu?</li><li>Dari mana asalnya?</li><li>Mengapa kita menggunakannya?</li><li>Dari mana saya bisa mendapatkannya?</li></ul><div><br /></div></div><p style="text-align: left;">Contoh penggunaan <b>daftar dengan angka</b> :</p><ol><li>Baris pertama dari Lorem Ipsum, "Lorem ipsum dolor sit amet..", berasal dari sebuah baris di bagian 1.10.32.</li><li>Bagian standar dari teks Lorem Ipsum yang digunakan sejak tahun 1500an kini di reproduksi kembali di bawah ini untuk mereka yang tertarik.</li><li>Bagian 1.10.32 dan 1.10.33 dari "de Finibus Bonorum et Malorum" karya Cicero juga di reproduksi persis seperti bentuk aslinya, diikuti oleh versi bahasa Inggris yang berasal dari terjemahan tahun 1914 oleh H. Rackham.</li></ol><div><br /></div></div><p>Berikut adalah contoh penggunaan <b>Blockquote :</b></p>
+<blockquote>Halo! saya adalah contoh tulisan yang ada dalam tag &lt;blockquote&gt;...&lt;/blocquote&gt;, dan berikut adalah <mark>sorotan</mark> yang menggunakan Tag HTML <b>&lt;mark&gt;</b></blockquote><p><br /></p><div><div><p style="text-align: left;">Contoh Penggunaan <b>Table</b> :</p></div><div class="table"><table><thead><tr><th>Judul 1</th><th>Judul 2</th><th>Judul 3</th></tr></thead><tbody><tr><td>Data</td><td>Data</td><td>Data</td></tr><tr><td>Data</td><td>Data</td><td>Data</td></tr><tr><td>Data</td><td>Data</td><td>Data</td></tr><tr><td>Data</td><td>Data</td><td>Data</td></tr><tr><td>Data</td><td>Data</td><td>Data<br /></td></tr></tbody></table></div></div><p><br /></p><p>Contoh Penggunaan Video <b>YouTube</b> :</p><p>[youtube]https://www.youtube.com/watch?v=9-tmV04qtDA[/youtube]</p>
