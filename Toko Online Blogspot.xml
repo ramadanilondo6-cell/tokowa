@@ -31,18 +31,18 @@
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
 <!-- Search Verification -->
-<meta content='xxxxx' name='google-site-verification'/>
-<meta content='xxxxx' name='msvalidate.01'/>
+<meta expr:content='data:googleVerification' name='google-site-verification'/>
+<meta expr:content='data:msVerification' name='msvalidate.01'/>
 <!-- Geo Country -->
 <meta content='Indonesia' name='geo.placename'/>
 <meta content='id' name='geo.country'/>
 <!-- Twitter -->
-<meta content='@xxxxx' name='twitter:site'/>
-<meta content='@xxxxx' name='twitter:creator'/>
+<meta expr:content='data:twitterSite' name='twitter:site'/>
+<meta expr:content='data:twitterCreator' name='twitter:creator'/>
 <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
 <!-- Facebook -->
-<meta content='xxxxx' property='fb:admins'/>
-<meta content='xxxxx' property='fb:app_id'/>
+<meta expr:content='data:fbAdmins' property='fb:admins'/>
+<meta expr:content='data:fbAppId' property='fb:app_id'/>
 <!-- Phone Bar Color -->
 <meta content='#2980b9' name='theme-color'/>
 <meta content='#2980b9' name='msapplication-navbutton-color'/>
@@ -273,19 +273,19 @@ ul.tabs-content{padding:0;overflow:hidden;border-bottom:1px solid #ccc}.tabs-con
 <!-- KATEGORI MENU NAVIGASI -->
 <ul class='blanterui'>
 <li><a class='judul' title='Kategori'>Kategori :</a></li>
-<li><a href='#' itemprop='url' title='Best Seller!'><span itemprop='name'>Best Seller</span></a></li>
-<li><a href='#' itemprop='url' title='Fashion Pria'><span itemprop='name'>Fashion Pria</span></a></li>
-<li><a href='#' itemprop='url' title='Fashion Wanita'><span itemprop='name'>Fashion Wanita</span></a></li>
-<li><a href='#' itemprop='url' title='Kecantikan'><span itemprop='name'>Kecantikan</span></a></li>
-<li><a href='#' itemprop='url' title='Laptop &amp; Aksesoris'><span itemprop='name'>Laptop &amp; Aksesoris</span></a></li>
-<li><a href='#' itemprop='url' title='Kesehatan'><span itemprop='name'>Kesehatan</span></a></li>
-<li><a href='#' itemprop='url' title='Elektronik'><span itemprop='name'>Elektronik</span></a></li>
-<li><a href='#' itemprop='url' title='Lainnya'><span itemprop='name'>Lainnya</span></a>
+<li><a expr:href='data:menuBestSeller' itemprop='url' title='Best Seller!'><span itemprop='name'>Best Seller</span></a></li>
+<li><a expr:href='data:menuFashionPria' itemprop='url' title='Fashion Pria'><span itemprop='name'>Fashion Pria</span></a></li>
+<li><a expr:href='data:menuFashionWanita' itemprop='url' title='Fashion Wanita'><span itemprop='name'>Fashion Wanita</span></a></li>
+<li><a expr:href='data:menuKecantikan' itemprop='url' title='Kecantikan'><span itemprop='name'>Kecantikan</span></a></li>
+<li><a expr:href='data:menuLaptop' itemprop='url' title='Laptop &amp; Aksesoris'><span itemprop='name'>Laptop &amp; Aksesoris</span></a></li>
+<li><a expr:href='data:menuKesehatan' itemprop='url' title='Kesehatan'><span itemprop='name'>Kesehatan</span></a></li>
+<li><a expr:href='data:menuElektronik' itemprop='url' title='Elektronik'><span itemprop='name'>Elektronik</span></a></li>
+<li><a expr:href='data:menuLainnya' itemprop='url' title='Lainnya'><span itemprop='name'>Lainnya</span></a>
  <ul>
-  <li><a href='#' itemprop='url' title='Hiburan'><span itemprop='name'>Hiburan</span></a></li>
-  <li><a href='#' itemprop='url' title='Otomotif'><span itemprop='name'>Otomotif</span></a></li>
-  <li><a href='#' itemprop='url' title='Movie'><span itemprop='name'>Movie</span></a></li>
-  <li><a href='#' itemprop='url' title='Olahraga'><span itemprop='name'>Olahraga</span></a></li>
+  <li><a expr:href='data:menuHiburan' itemprop='url' title='Hiburan'><span itemprop='name'>Hiburan</span></a></li>
+  <li><a expr:href='data:menuOtomotif' itemprop='url' title='Otomotif'><span itemprop='name'>Otomotif</span></a></li>
+  <li><a expr:href='data:menuMovie' itemprop='url' title='Movie'><span itemprop='name'>Movie</span></a></li>
+  <li><a expr:href='data:menuOlahraga' itemprop='url' title='Olahraga'><span itemprop='name'>Olahraga</span></a></li>
  </ul>
 </li>
 </ul>
@@ -294,10 +294,10 @@ ul.tabs-content{padding:0;overflow:hidden;border-bottom:1px solid #ccc}.tabs-con
 <nav><div id='mobile-menu'/>
 </nav></div>
 <div id='headermenu'>
-<li><a class='fbx' href='#' itemprop='url' title='Tokopedia'><i class='tokopedia'/><span itemprop='name'>Tokopedia</span></a></li>
-<li><a class='twx' href='#' itemprop='url' title='Bukalapak'><i class='bukalapak'/><span itemprop='name'>Bukalapak</span></a></li>
-<li><a class='ytx' href='#' itemprop='url' title='Shopee'><i class='shopee'/><span itemprop='name'>Shopee</span></a></li>
-<li><a class='inx' href='#' itemprop='url' title='Lazada'><i class='lazada'/><span itemprop='name'>Lazada</span></a></li>
+<li><a class='fbx' expr:href='data:tokopediaLink' itemprop='url' title='Tokopedia'><i class='tokopedia'/><span itemprop='name'>Tokopedia</span></a></li>
+<li><a class='twx' expr:href='data:bukalapakLink' itemprop='url' title='Bukalapak'><i class='bukalapak'/><span itemprop='name'>Bukalapak</span></a></li>
+<li><a class='ytx' expr:href='data:shopeeLink' itemprop='url' title='Shopee'><i class='shopee'/><span itemprop='name'>Shopee</span></a></li>
+<li><a class='inx' expr:href='data:lazadaLink' itemprop='url' title='Lazada'><i class='lazada'/><span itemprop='name'>Lazada</span></a></li>
 </div>
 <div class='clear'/>
 <div id='outer-material'>
@@ -1151,29 +1151,30 @@ my_redirect = setTimeout(function() {
 </div></div></footer></div><div class='darkshadow'/>
 <!-- PENGATURAN NOTIFIKASI -->
 <div class='blanternotif'>
-<div class='blantertitle'>(Promo) Bulan Agustus!</div>
+<div class='blantertitle'><data:promoTitle/></div>
 <div class='notiftext'>
-<a href='https://www.idblanter.com/' rel='noopener' target='_blank' title='(Promo) Bulan Agustus!'>
-<img alt='Promo' src='https://1.bp.blogspot.com/-Cmx_mUI4gCQ/XUuF3NJRCDI/AAAAAAAAMYo/adKlkxQtrYE375s--371ZlGW0RkkVnp3gCLcBGAs/w500/Blanter%2BTokoshop%2BTemplate.png'/>
+<a expr:href='data:promoUrl' rel='noopener' target='_blank' expr:title='data:promoTitle'>
+<img alt='Promo' expr:src='data:promoImage'/>
 </a>
-*Promo berlaku s/d Tgl. 30/9/2019
+<data:promoText/>
 </div>
 <a class='waves-effect waves-light close-sf' href='javascript:void' title='Close'>Close</a>
-<a class='waves-effect waves-light btn-sf' href='https://www.idblanter.com/' rel='noopener' target='_blank' title='Get Now!'>Get Now!</a>
+<a class='waves-effect waves-light btn-sf' expr:href='data:promoUrl' rel='noopener' target='_blank' title='Get Now!'>Get Now!</a>
 </div>
 <div class='flashlight'/>
 <div class='navmobile'><a class='navhome' expr:href='data:blog.homepageUrl'><i class='material-icons'>&#59530;</i> Home</a><div id='navwa'/><a class='navnotif notifUi' href='javascript:void'><i class='material-icons'>notifications</i> Notif</a></div>
 <div class='addtowish'>Produk dimasukan ke <i class='fas fa-heart'/> Wishlist</div>
+<a href='#' id='back-to-top' title='Back to top'><i class='fas fa-arrow-up'></i></a>
 <!-- WHATSAPP MOBILE CONTACT -->
-<a class='navwa' href='https://api.whatsapp.com/send?phone=6281977094280' id='realnavwa' target='_blank' title='Chat Whatsapp'><i class='fab fa-whatsapp'/></a>
+<a class='navwa' expr:href='&quot;https://api.whatsapp.com/send?phone=&quot; + data:whatsappNumber' id='realnavwa' target='_blank' title='Chat Whatsapp'><i class='fab fa-whatsapp'/></a>
 <div class='clear'/>
 <script defer='defer' src='https://rawcdn.githack.com/blanter/rio/e1facf1fddbcb994e8dcba9b1c886e413ffd4034/jquery.flexslider-rio.js'/>
 <script type='text/javascript'>
 //<![CDATA[
 // Konfigurasi Teks Checkout
-var text_phone = '6281977094280',
+var text_phone = &quot;<data:whatsappNumber/>&quot;,
 	text_wa = 'Halo.. Saya mau beli ',
-	text_email = 'rioblanter@gmail.com',
+	text_email = &quot;<data:emailAddress/>&quot;,
 	text_mailsubject = 'Info Pembelian ',
 	text_mailbody = 'Halo.. Saya mau beli ',
     text_nowish = 'Tidak ada Wishlist',
@@ -1195,6 +1196,10 @@ var load_more = 'Lihat Produk Lainnya',
 	css2 = 'https://fonts.googleapis.com/icon?family=Material+Icons', // CSS Material Icons
 	css3 = 'https://fonts.googleapis.com/css?family=Farro'; // CSS Farro
     notiflicense = 'HAHA TEKS HAHA TEST';
+// Back to top button
+$('<style>').prop('type', 'text/css').html('#back-to-top{position:fixed;bottom:20px;right:20px;background:#3498db;color:#fff;padding:10px 15px;border-radius:50%;display:none;z-index:99}').appendTo('head');
+$(window).scroll(function(){if($(this).scrollTop()>100){$('#back-to-top').fadeIn();}else{$('#back-to-top').fadeOut();}});
+$('#back-to-top').click(function(){$('html, body').animate({scrollTop:0},800);return false;});
 // More
 var _0x8caa=["\x74\x61\x62\x63\x6F\x6E\x74\x65\x6E\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x6E\x6F\x6E\x65","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x62\x6C\x6F\x63\x6B","\x74\x61\x62\x6D\x65\x6E\x75","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x74\x61\x62\x6D\x65\x6E\x75\x20\x61\x63\x74\x69\x76\x65","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x6C\x69\x73\x74\x6C\x6F\x76\x65","\x63\x63","\x73\x65\x74\x49\x74\x65\x6D","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6D\x6F\x64\x65","\x67\x65\x74","\x73\x65\x61\x72\x63\x68\x50\x61\x72\x61\x6D\x73","\x72\x65\x6C\x61\x74\x65\x64\x2D\x70\x6F\x73\x74\x73","\x3C\x73\x74\x79\x6C\x65\x3E\x23\x62\x6C\x6F\x67\x2D\x70\x61\x67\x65\x72\x2C\x2E\x6E\x61\x76\x6D\x6F\x62\x69\x6C\x65\x2C\x23\x68\x65\x61\x64\x65\x72\x2D\x6D\x61\x74\x65\x72\x69\x61\x6C\x2C\x23\x6D\x65\x6E\x75\x2D\x62\x6C\x61\x6E\x74\x65\x72\x2C\x2E\x62\x72\x65\x61\x64\x63\x72\x75\x6D\x62\x73\x2C\x23\x70\x6F\x70\x75\x6C\x61\x72\x2D\x62\x6F\x78\x2C\x2E\x66\x6F\x6F\x74\x65\x72\x2D\x62\x6C\x61\x6E\x74\x65\x72\x2C\x23\x66\x6F\x6F\x74\x65\x72\x2D\x6D\x61\x74\x65\x72\x69\x61\x6C\x2C\x23\x66\x6F\x6F\x74\x65\x72\x2D\x62\x6F\x74\x74\x6F\x6D\x2C\x2E\x6E\x61\x76\x77\x61\x2C\x2E\x66\x6C\x61\x73\x68\x6C\x69\x67\x68\x74\x2C\x2E\x62\x6C\x61\x6E\x74\x65\x72\x6E\x6F\x74\x69\x66\x2C\x61\x2E\x62\x6C\x61\x6E\x74\x65\x72\x73\x68\x6F\x77\x2D\x63\x68\x61\x74\x7B\x64\x69\x73\x70\x6C\x61\x79\x3A\x6E\x6F\x6E\x65\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x7D\x62\x6F\x64\x79\x3A\x62\x65\x66\x6F\x72\x65\x7B\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x23\x66\x66\x66\x7D\x2E\x70\x6F\x73\x74\x2D\x6F\x75\x74\x65\x72\x7B\x6D\x61\x72\x67\x69\x6E\x3A\x30\x20\x33\x70\x78\x20\x31\x30\x70\x78\x7D\x23\x6F\x75\x74\x65\x72\x2D\x6D\x61\x74\x65\x72\x69\x61\x6C\x7B\x6D\x61\x72\x67\x69\x6E\x3A\x30\x7D\x23\x63\x6F\x6E\x74\x65\x6E\x74\x2D\x6D\x61\x74\x65\x72\x69\x61\x6C\x7B\x70\x61\x64\x64\x69\x6E\x67\x3A\x30\x20\x35\x70\x78\x3B\x77\x69\x64\x74\x68\x3A\x61\x75\x74\x6F\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x6D\x61\x78\x2D\x77\x69\x64\x74\x68\x3A\x31\x30\x30\x25\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x7D\x2A\x7B\x6F\x76\x65\x72\x66\x6C\x6F\x77\x2D\x79\x3A\x68\x69\x64\x64\x65\x6E\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x7D\x62\x6F\x64\x79\x7B\x70\x61\x64\x64\x69\x6E\x67\x2D\x74\x6F\x70\x3A\x30\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x74\x72\x61\x6E\x73\x70\x61\x72\x65\x6E\x74\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x6F\x76\x65\x72\x66\x6C\x6F\x77\x2D\x79\x3A\x68\x69\x64\x64\x65\x6E\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x7D\x2E\x70\x6F\x73\x74\x2D\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C\x20\x69\x6D\x67\x7B\x68\x65\x69\x67\x68\x74\x3A\x31\x38\x30\x70\x78\x7D\x3C\x2F\x73\x74\x79\x6C\x65\x3E","\x77\x72\x69\x74\x65","\x6F\x6E\x6C\x6F\x61\x64","\x74\x61\x72\x67\x65\x74","\x5F\x74\x6F\x70","\x61\x74\x74\x72","\x65\x61\x63\x68","\x2E\x70\x6F\x73\x74\x2E\x68\x65\x6E\x74\x72\x79\x20\x61","\x62\x6F\x64\x79","\x64\x6F\x63\x75\x6D\x65\x6E\x74\x45\x6C\x65\x6D\x65\x6E\x74","\x73\x63\x72\x6F\x6C\x6C\x48\x65\x69\x67\x68\x74","\x6F\x66\x66\x73\x65\x74\x48\x65\x69\x67\x68\x74","\x63\x6C\x69\x65\x6E\x74\x48\x65\x69\x67\x68\x74","\x6D\x61\x78","\x63\x6F\x6E\x74\x65\x6E\x74\x44\x6F\x63\x75\x6D\x65\x6E\x74","\x64\x6F\x63\x75\x6D\x65\x6E\x74","\x63\x6F\x6E\x74\x65\x6E\x74\x57\x69\x6E\x64\x6F\x77","\x76\x69\x73\x69\x62\x69\x6C\x69\x74\x79","\x68\x69\x64\x64\x65\x6E","\x68\x65\x69\x67\x68\x74","\x30\x70\x78","\x2E\x34\x32\x70\x78","\x76\x69\x73\x69\x62\x6C\x65","\x72\x65\x6C\x61\x74\x65\x64\x66\x72\x61\x6D\x65\x2D\x70\x6F\x73\x74\x73","\x72\x65\x73\x69\x7A\x65","\x72\x65\x61\x64\x79","\x6C\x6F\x61\x64","\x62\x69\x6E\x64","\x23\x72\x65\x6C\x61\x74\x65\x64\x66\x72\x61\x6D\x65\x2D\x70\x6F\x73\x74\x73"];function rudrSwitchTab(_0xe895x2,_0xe895x3){var _0xe895x4,_0xe895x5=document[_0x8caa[1]](_0x8caa[0]);for(_0xe895x4= 0;_0xe895x4< _0xe895x5[_0x8caa[2]];_0xe895x4++){_0xe895x5[_0xe895x4][_0x8caa[4]][_0x8caa[3]]= _0x8caa[5]};document[_0x8caa[6]](_0xe895x3)[_0x8caa[4]][_0x8caa[3]]= _0x8caa[7];var _0xe895x4,_0xe895x5=document[_0x8caa[1]](_0x8caa[8]);for(_0xe895x4= 0;_0xe895x4< _0xe895x5[_0x8caa[2]];_0xe895x4++){_0xe895x5[_0xe895x4][_0x8caa[9]]= _0x8caa[8]};document[_0x8caa[6]](_0xe895x2)[_0x8caa[9]]= _0x8caa[10]}function hapus(){var _0xe895x3=document[_0x8caa[6]](_0x8caa[12])[_0x8caa[11]];localStorage[_0x8caa[14]](_0x8caa[13],_0xe895x3)}var url_string=window[_0x8caa[16]][_0x8caa[15]],urlParameter= new URL(url_string),labelMode=urlParameter[_0x8caa[19]][_0x8caa[18]](_0x8caa[17]);_0x8caa[20]== labelMode&& (document[_0x8caa[22]](_0x8caa[21]),window[_0x8caa[23]]= function(){$(_0x8caa[28])[_0x8caa[27]](function(){$(this)[_0x8caa[26]](_0x8caa[24],_0x8caa[25])})});function getDocHeight(_0xe895x3){_0xe895x3= _0xe895x3|| document;var _0xe895x4=_0xe895x3[_0x8caa[29]],_0xe895xb=_0xe895x3[_0x8caa[30]],_0xe895xc=Math[_0x8caa[34]](_0xe895x4[_0x8caa[31]],_0xe895x4[_0x8caa[32]],_0xe895xb[_0x8caa[33]],_0xe895xb[_0x8caa[31]],_0xe895xb[_0x8caa[32]]);return _0xe895xc}function setIframeHeight(_0xe895x3){var _0xe895x4=document[_0x8caa[6]](_0xe895x3),_0xe895xb=_0xe895x4[_0x8caa[35]]?_0xe895x4[_0x8caa[35]]:_0xe895x4[_0x8caa[37]][_0x8caa[36]];_0xe895x4[_0x8caa[4]][_0x8caa[38]]= _0x8caa[39],_0xe895x4[_0x8caa[4]][_0x8caa[40]]= _0x8caa[41],_0xe895x4[_0x8caa[4]][_0x8caa[40]]= getDocHeight(_0xe895xb)+ 4+ _0x8caa[42],_0xe895x4[_0x8caa[4]][_0x8caa[38]]= _0x8caa[43]}$(document)[_0x8caa[46]](function(){$(window)[_0x8caa[45]](function(){setIframeHeight(_0x8caa[44])})}),$(_0x8caa[49])[_0x8caa[48]](_0x8caa[47],function(){setIframeHeight(_0x8caa[44])})
 //]]>
